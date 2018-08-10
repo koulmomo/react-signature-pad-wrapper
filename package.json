@@ -2,7 +2,7 @@
   "name": "react-signature-pad-wrapper",
   "version": "1.2.2",
   "description": "A React component wrapper for signature_pad",
-  "main": "src/index.js",
+  "main": "dist/react-signature-pad-wrapper.min.js",
   "scripts": {
     "test": "jest",
     "build": "./node_modules/.bin/rollup --config",
